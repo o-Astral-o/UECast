@@ -7,7 +7,7 @@
 - Unzip contents into Plugins folder
 
 # Usage
-- Drag and drop .cast file/s into content browser
+- Drag and drop `.cast` file/s into content browser
 - Adjust settings accordingly (Will document in more detail in the future)
 - Click `Import` to import single assets, or `Import All` to import all files with the same settings
 - Additional settings can be found in `Edit -> Editor Preferences -> Plugins -> Cast Import`
