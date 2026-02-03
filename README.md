@@ -3,7 +3,7 @@
 # Unreal Engine plugin for importing [Cast](https://github.com/dtzxporter/cast) files.
 # Installation
 - Download the plugin for your engine version
-- Create a folder named 'Plugins' in your project folder if it doesn't already exist
+- Create a folder named `Plugins` in your project folder if it doesn't already exist
 - Unzip contents into Plugins folder
 
 # Usage
